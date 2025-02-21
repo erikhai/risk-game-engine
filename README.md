@@ -31,5 +31,7 @@ The `input` folder contains `catalog.json`. The `output` folder contains the res
 
 # The team
 Erik Hai: linkedin.com/in/erik-hai/
+
 Mithil Patel: https://www.linkedin.com/in/mithil-patel-01b439228/
+
 Mustafa El Tannir: https://www.linkedin.com/in/mustafa-el-tannir/
