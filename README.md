@@ -29,9 +29,12 @@ Now you can simulate matches on your own device. We will briefly explain the new
 The `input` folder contains `catalog.json`. The `output` folder contains the results of the game, `results.json` describes who won if the game was successful, otherwise it may describe who was banned or why the match was cancelled. The `game.json` file contains the game recording, which is the same data displayed on the website in the match history page. The `visualiser_backwards_differential.json` and `visualiser_forwards_differential.json` are used to generate the map visualisation on the website. The `submission_x.err` and `submission_x.log` are the STDERR and STDOUT of each submission respectively.
 
 
-# The team
+# The Team
 Erik Hai: https://www.linkedin.com/in/erik-hai/
 
 Mithil Patel: https://www.linkedin.com/in/mithil-patel-01b439228/
 
 Mustafa El Tannir: https://www.linkedin.com/in/mustafa-el-tannir/
+
+# The Results
+![image](https://github.com/user-attachments/assets/8958ec3f-691d-4da7-8095-27a83411c28e)
